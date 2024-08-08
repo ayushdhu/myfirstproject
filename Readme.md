@@ -1,1 +1,2 @@
-
+Name = "James"
+Println Name
